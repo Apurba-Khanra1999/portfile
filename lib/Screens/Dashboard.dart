@@ -199,7 +199,7 @@ class DashboardScreen extends StatelessWidget {
                       mainAxisAlignment: MainAxisAlignment.center,
                       children: [
                         Text(
-                          '22+',
+                          '10+',
                           style: GoogleFonts.poppins(
                               fontWeight: FontWeight.w800,
                               fontSize: 24,
